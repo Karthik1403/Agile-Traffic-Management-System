@@ -38,8 +38,6 @@ This indicates that a single algorithm run is used to forecast the entire image.
 # Working:
 Get a real time image from the traffic catching camera
 Scan and determine the traffic density
-Input this data to the Time Allocation module
-The output will be the time slots for each lane accordingly.
 
 
 # Conclusion:
@@ -48,6 +46,4 @@ This is a project that counts automobiles in the images using the YoloV3 neural 
 
 ![seq](https://user-images.githubusercontent.com/72182471/165362571-06875fea-9fe9-4075-a74e-871503363649.png)
 
-
-Download the YOLO model from here: https://drive.google.com/drive/folders/1XaxVeDwKMTkE7jk9omMGmKVYea01P9XV?usp=sharing
 
